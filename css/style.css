@@ -1,0 +1,61 @@
+
+h1, h2, h3, h4{
+font-family: 'Kaushan Script';
+  align-content: center;
+}
+p{
+font-family: 'Bangers';
+  align-content: center;
+  font-size: 6px;
+}
+.navbar-light{
+  background-color: #101357;
+  height: 90px;
+
+}
+.container-fluid {
+  margin: 0px auto;
+  padding: 0px;
+  height: 400px;
+  background: #fea49f;
+  color:white;
+  }
+
+.footer{
+  margin: 5px auto;
+  padding: 0px 0px;
+  text-align: right;
+}
+.footer-text{
+  font-family: 'Lato';
+  font-size: 15px;
+  text-align: right;
+  color: gray;
+  padding: inherit;
+}
+.github{
+  color:#0056FE;
+  font-weight: bold;
+  font-family:monospace;
+  font-size: 9px;
+  text-align: right;
+}
+.navbar-text{
+  font-family:'Bangers';
+  font-size: 30px;
+}
+.text-right{
+  text-align: right;
+
+}
+.badge-danger{
+  text-align: center;
+}
+.hello{
+  color:black;
+  font-family: 'Kaushan Script';
+  font-size: 10px;
+}
+img{
+  padding-bottom: 5px;;
+}
